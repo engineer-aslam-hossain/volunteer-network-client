@@ -1,0 +1,21 @@
+.eventCard {
+  width: 16rem;
+  height: 19rem;
+  margin: 1rem;
+  border-radius: 1rem !important;
+  position: relative !important;
+  top: -15rem;
+  cursor: pointer;
+  overflow: hidden;
+}
+.eventTitle {
+  position: absolute;
+  height: 5rem;
+  bottom: -1rem;
+  width: 100%;
+  font-size: 1rem;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  overflow: hidden;
+}

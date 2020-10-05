@@ -1,0 +1,17 @@
+.createEvent {
+  display: none;
+}
+.eventForm input {
+  margin: 0;
+  margin-bottom: 1rem;
+  border: none;
+  box-shadow: inset 1px 1px 5px lightgray;
+}
+.eventFooter button {
+  margin: 2rem 0 !important;
+}
+.eventCreateForm.card {
+  width: 50rem;
+  height: 20rem;
+  margin: 2rem auto;
+}

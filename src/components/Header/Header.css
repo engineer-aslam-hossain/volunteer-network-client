@@ -1,0 +1,11 @@
+a.nav-link {
+  color: black;
+  margin: 0 2rem;
+}
+button.btn.btn-primary {
+  margin: 0 1rem;
+}
+button.btn.btn-primary a {
+  color: white;
+  text-decoration: none;
+}

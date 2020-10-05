@@ -1,0 +1,26 @@
+.search button {
+  position: relative;
+  left: -1.2rem;
+  border-radius: 10px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0;
+}
+.upperSide {
+  background: linear-gradient(
+      0deg,
+      rgb(248, 250, 252, 0.9),
+      rgb(248, 250, 252, 0.9)
+    ),
+    url("../../images/logos/back.png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  padding-bottom: 15rem;
+}
+.eventRow {
+  padding: 5rem 6rem;
+  padding-left: 7rem !important;
+  background-color: #f8fafc;
+  position: relative;
+  top: -3rem;
+}

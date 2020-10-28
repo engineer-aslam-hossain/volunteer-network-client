@@ -7,13 +7,11 @@ Role : Full Stack Developer
 #### Features :
 - Responsive UI
 - Single Page Application (SPA)
-- User can see the services provided by the agency.
-- Authenticated users can order for a service by providing a demo.
-- User can see the progress status of his order.
+- User can chose an Category of Volunteer.
+- Authenticated users also can delete his chosen category.
 - A dashboard is available for authenticated admin.
-- Admin can add new services
-- Admin can change order’s status to notify the clients about progress.
-- Admin can add a new admin.
+- Admin can add new volunteer services
+- Admin can delete any volunteer category also.
 
 #### Technologies :
 ● Front-end :​ ReactJS, React-Router

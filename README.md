@@ -20,4 +20,4 @@ Role : Full Stack Developer
 ● Cloud infrastructure: Heroku
 ● HTML5, CSS3, Bootstrap4, JS, Git, Firebase, etc.
 
-## [Volunteer Network Server Repo](https://github.com/engineer-aslam-hossain/doctors-portal-solution-server)
+## [Volunteer Network Server Repository](https://github.com/engineer-aslam-hossain/doctors-portal-solution-server)
